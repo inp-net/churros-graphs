@@ -235,7 +235,7 @@
 <g id="edge16" class="edge">
 <title>7Recette&#45;&#45;B7H</title>
 <path fill="none" stroke="black" d="M800.66,-1252.98C830.45,-1202.57 913.61,-1061.82 943.44,-1011.32"/>
-<text text-anchor="middle" x="785.05" y="-1136.1" font-family="Times,serif" font-size="14.00">djafery, gourioj, fieveta2</text>
+<text text-anchor="middle" x="785.05" y="-1136.1" font-family="Times,serif" font-size="14.00">gourioj, djafery, fieveta2</text>
 </g>
 <!-- 7Voix&#45;&#45;B7H -->
 <g id="edge18" class="edge">
@@ -283,7 +283,7 @@
 <g id="edge24" class="edge">
 <title>7fault&#45;&#45;Cartel</title>
 <path fill="none" stroke="black" d="M1487.32,-1050.3C1465.31,-1065.87 1433.97,-1088.04 1411.97,-1103.61"/>
-<text text-anchor="middle" x="1381.4" y="-1080.9" font-family="Times,serif" font-size="14.00">gutierrezt, rottiern</text>
+<text text-anchor="middle" x="1381.4" y="-1080.9" font-family="Times,serif" font-size="14.00">rottiern, gutierrezt</text>
 </g>
 <!-- Fromage7 -->
 <g id="node29" class="node">
@@ -319,7 +319,7 @@
 <g id="edge23" class="edge">
 <title>7fault&#45;&#45;Magic7</title>
 <path fill="none" stroke="black" d="M1484.1,-1030.72C1466.08,-1030.04 1442.91,-1029.17 1424.03,-1028.45"/>
-<text text-anchor="middle" x="1385.82" y="-1033.54" font-family="Times,serif" font-size="14.00">gutierrezt, rottiern</text>
+<text text-anchor="middle" x="1385.82" y="-1033.54" font-family="Times,serif" font-size="14.00">rottiern, gutierrezt</text>
 </g>
 <!-- 7fe Space&#45;&#45;Bureau Des Éleves -->
 <g id="edge28" class="edge">
@@ -547,7 +547,7 @@
 <g id="edge49" class="edge">
 <title>Bureau Des Éleves&#45;&#45;Terroir7</title>
 <path fill="none" stroke="black" d="M1038.72,-663.27C1026.56,-659.48 1014.08,-655.6 1002.94,-652.13"/>
-<text text-anchor="middle" x="963.45" y="-661.65" font-family="Times,serif" font-size="14.00">baillye, arbonap</text>
+<text text-anchor="middle" x="963.45" y="-661.65" font-family="Times,serif" font-size="14.00">arbonap, baillye</text>
 </g>
 <!-- Association des Étudiants -->
 <g id="node54" class="node">
@@ -619,7 +619,7 @@
 <g id="edge56" class="edge">
 <title>Cartel&#45;&#45;Magic7</title>
 <path fill="none" stroke="black" d="M1386.61,-1103.76C1387.28,-1086.96 1388.25,-1062.19 1388.92,-1045.4"/>
-<text text-anchor="middle" x="1485.26" y="-1061.28" font-family="Times,serif" font-size="14.00">gutierrezt, rottiern, olivierl</text>
+<text text-anchor="middle" x="1485.26" y="-1061.28" font-family="Times,serif" font-size="14.00">rottiern, gutierrezt, olivierl</text>
 </g>
 <!-- Club&#39;Zik&#45;&#45;Mind7 -->
 <g id="edge60" class="edge">
@@ -709,7 +709,7 @@
 <g id="edge68" class="edge">
 <title>Fromage7&#45;&#45;Photo7</title>
 <path fill="none" stroke="black" d="M1303.86,-924.05C1284.78,-945.32 1253.49,-980.22 1234.42,-1001.48"/>
-<text text-anchor="middle" x="1205.02" y="-949.46" font-family="Times,serif" font-size="14.00">elomarim, ignazin</text>
+<text text-anchor="middle" x="1205.02" y="-949.46" font-family="Times,serif" font-size="14.00">ignazin, elomarim</text>
 </g>
 <!-- Fromage7&#45;&#45;TVn7 -->
 <g id="edge72" class="edge">
@@ -727,7 +727,7 @@
 <g id="edge65" class="edge">
 <title>Fromage7&#45;&#45;net7</title>
 <path fill="none" stroke="black" d="M1365,-907.29C1391.31,-908.22 1423.73,-909.35 1446.24,-910.14"/>
-<text text-anchor="middle" x="1473.12" y="-912.67" font-family="Times,serif" font-size="14.00">dreumonte, soyerb</text>
+<text text-anchor="middle" x="1473.12" y="-912.67" font-family="Times,serif" font-size="14.00">soyerb, dreumonte</text>
 </g>
 <!-- INP&#45;net -->
 <g id="node55" class="node">
@@ -739,7 +739,7 @@
 <g id="edge66" class="edge">
 <title>Fromage7&#45;&#45;INP&#45;net</title>
 <path fill="none" stroke="black" d="M1343.96,-887.36C1370.84,-866.49 1414.33,-832.74 1440.25,-812.62"/>
-<text text-anchor="middle" x="1324.6" y="-853.94" font-family="Times,serif" font-size="14.00">dreumonte, soyerb</text>
+<text text-anchor="middle" x="1324.6" y="-853.94" font-family="Times,serif" font-size="14.00">soyerb, dreumonte</text>
 </g>
 <!-- Game7&#45;&#45;net7 -->
 <g id="edge73" class="edge">
@@ -883,7 +883,7 @@
 <g id="edge90" class="edge">
 <title>net7&#45;&#45;INP&#45;net</title>
 <path fill="none" stroke="black" d="M1471.55,-892.6C1469.36,-871.12 1465.75,-835.9 1463.56,-814.44"/>
-<text text-anchor="middle" x="1287.55" y="-840.22" font-family="Times,serif" font-size="14.00">truongn, dreumonte, soyerb, dissoubraya, ragotc1</text>
+<text text-anchor="middle" x="1287.55" y="-840.22" font-family="Times,serif" font-size="14.00">dreumonte, truongn, dissoubraya, soyerb, ragotc1</text>
 </g>
 </g>
 </svg>

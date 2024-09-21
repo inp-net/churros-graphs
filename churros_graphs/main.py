@@ -6,6 +6,8 @@ from pathlib import Path
 
 import requests
 
+if not Path("querycache.json").exists():
+    Path("querycache.json").write_text("{}")
 
 def readable_text_color_on(color_hexstring: str) -> str:
     r, g, b = (int(color_hexstring[i : i + 2], 16) for i in range(1, 7, 2))
@@ -48,7 +50,7 @@ def memberships():
                     member {
                         groups {
                             president, secretary, treasurer, vicePresident, title
-                        member{uid, yearTier}
+                            member{uid, yearTier}
                             group {
                                 type
                                 name
