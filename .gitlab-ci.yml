@@ -2,7 +2,7 @@
 image: node:lts
 pages:
   script:
-    - echo feur
+    - echo gitlab pages t trop un baka
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
